@@ -1,0 +1,73 @@
+ -------------------------- Booth Details --------------------------
+Name : Booth Empty
+Booth Number: 0
+      First Name : 
+      SurName : 
+      Vaccine : 
+      Age : 0
+      City : 
+      Passport/ID : 0
+________________________________________________________________________________________
+
+
+  -------------------------- Booth Details --------------------------
+Name : Booth Empty
+Booth Number: 1
+      First Name : 
+      SurName : 
+      Vaccine : 
+      Age : 0
+      City : 
+      Passport/ID : 0
+________________________________________________________________________________________
+
+
+  -------------------------- Booth Details --------------------------
+Name : Booth Empty
+Booth Number: 2
+      First Name : 
+      SurName : 
+      Vaccine : 
+      Age : 0
+      City : 
+      Passport/ID : 0
+________________________________________________________________________________________
+
+
+  -------------------------- Booth Details --------------------------
+Name : John
+Booth Number: 3
+      First Name : John
+      SurName : Smith
+      Vaccine : Sinopharm
+      Age : 25
+      City : Galle
+      Passport/ID : 123409876
+________________________________________________________________________________________
+
+
+  -------------------------- Booth Details --------------------------
+Name : Booth Empty
+Booth Number: 4
+      First Name : 
+      SurName : 
+      Vaccine : 
+      Age : 0
+      City : 
+      Passport/ID : 0
+________________________________________________________________________________________
+
+
+  -------------------------- Booth Details --------------------------
+Name : Booth Empty
+Booth Number: 5
+      First Name : 
+      SurName : 
+      Vaccine : 
+      Age : 0
+      City : 
+      Passport/ID : 0
+________________________________________________________________________________________
+
+
+ 

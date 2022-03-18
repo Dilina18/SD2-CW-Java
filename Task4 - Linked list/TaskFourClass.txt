@@ -1,0 +1,74 @@
+ -------------------------- Booth Details --------------------------
+Name : n
+Booth Number: 0
+      First Name : n
+      SurName : chang
+      Vaccine : AstraZeneca
+      Age : 23
+      City : Wu Hang
+      Passport/ID : 12332123
+________________________________________________________________________________________
+
+
+  -------------------------- Booth Details --------------------------
+Name : Adam
+Booth Number: 1
+      First Name : Adam
+      SurName : Lara
+      Vaccine : AstraZeneca
+      Age : 25
+      City : Dhaka
+      Passport/ID : 222333444
+________________________________________________________________________________________
+
+
+  -------------------------- Booth Details --------------------------
+Name : Booth Empty
+Booth Number: 2
+      First Name : 
+      SurName : 
+      Vaccine : 
+      Age : 0
+      City : 
+      Passport/ID : 0
+________________________________________________________________________________________
+
+
+  -------------------------- Booth Details --------------------------
+Name : Booth Empty
+Booth Number: 3
+      First Name : 
+      SurName : 
+      Vaccine : 
+      Age : 0
+      City : 
+      Passport/ID : 0
+________________________________________________________________________________________
+
+
+  -------------------------- Booth Details --------------------------
+Name : Booth Empty
+Booth Number: 4
+      First Name : 
+      SurName : 
+      Vaccine : 
+      Age : 0
+      City : 
+      Passport/ID : 0
+________________________________________________________________________________________
+
+
+  -------------------------- Booth Details --------------------------
+Name : Booth Empty
+Booth Number: 5
+      First Name : 
+      SurName : 
+      Vaccine : 
+      Age : 0
+      City : 
+      Passport/ID : 0
+________________________________________________________________________________________
+
+
+ Remaining Vaccine Count: 147________________________________________________________________________________________
+_________________________________WAITING LIST_________________________________
